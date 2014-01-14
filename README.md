@@ -1,4 +1,4 @@
-Stripe Web Icons
+Stripe Web Icons Font
 ==============
 
 Visit : http://iconmart.in for detailed info and preview.
