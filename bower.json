@@ -1,0 +1,23 @@
+{
+  "name": "inventive-font",
+  "version": "1.2.0",
+  "homepage": "https://github.com/speedovation/Inventive-Web-Icons-Font",
+  "authors": [
+    "Yash <yash@speedovation.com>"
+  ],
+  "description": "Web icons font",
+  "main": "fonts/stripe-font.css",
+  "keywords": [
+    "Web",
+    "icons",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
