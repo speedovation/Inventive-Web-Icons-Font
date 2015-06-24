@@ -1,5 +1,4 @@
-Stripe Web Icons Font
-==============
+## Inventive Web Font - 512+ Icons  
 
 We're in process of updating more icons soon. Stay tuned.
 
@@ -13,7 +12,6 @@ We're in process of updating more icons soon. Stay tuned.
 
 ## Preview
 Open stripe-font-preview.html
-
 
 
 ## License 
