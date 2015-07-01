@@ -6,7 +6,7 @@ We're in process of updating more icons soon. Stay tuned.
     bower install inventive-font
 
 ## How to use
-* Step 1 : Add stripe-font.css 
+* Step 1 : Add stripe.css 
 * Step 2 : Use classes icon-{iconname} like icon-phone
 * Step 3 : See preview :) 
 
